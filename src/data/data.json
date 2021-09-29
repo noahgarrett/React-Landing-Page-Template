@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Jerboa Pool",
+    "paragraph": "A Fully Community Focused Validator on the Crypto.org Chain. 0% Fee in 2021!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Founded in 2021, Jerboa Technologies is a Custum Software Development company based in the southern United States. Our passion for blockchain technology has brought us into the position to be able to have an impact on future usage/development on the Crypto.org Chain. Jerboa Pool is fully community focused, and backed by a network of security fail-safes and procedures to keep validation as accurate as possible.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Fee Transparency",
+      "Security Focused",
+      "Minimum Commission Rates",
+      "Community First"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Full Communication",
+      "Personal Delegators of Jerboa Pool",
+      "CRO Community Members",
+      "Testnet Contributers"
     ]
   },
   "Gallery": [
@@ -67,34 +67,22 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-laptop",
+      "name": "Discord Community",
+      "text": "Join our growing Discord community for important updates on all things Jerboa Pool!",
+      "link": "https://discord.gg/8kvVesH6bW"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-twitter",
+      "name": "Twitter",
+      "text": "Follow us on Twitter for important updates straight to your phone!",
+      "link": "https://twitter.com/JerboaPool"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-envelope",
+      "name": "Jerboa Technologies, LLC",
+      "text": "Get more information on our company and contact us for any potential partnerships!",
+      "link": "https://jerboatechnologies.com"
     }
   ],
   "Testimonials": [
@@ -131,24 +119,28 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "https://avatars.githubusercontent.com/u/67662284?v=4",
+      "name": "Noah",
+      "job": "Owner / Operator",
+      "git": "https://github.com/noahgarrett"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "https://avatars.githubusercontent.com/u/20798076?v=4",
+      "name": "Daniel",
+      "job": "Owner / Operator",
+      "git": "https://github.com/danielcrumpler"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "https://avatars.githubusercontent.com/u/28953506?v=4",
+      "name": "Cody",
+      "job": "Owner / Operator",
+      "git": "https://github.com/CodyVollrath"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "https://cdn.discordapp.com/attachments/849473249318010890/852257565475602522/Untitled_Artwork.png",
+      "name": "Jerboa Technologies, LLC",
+      "job": "Founding Company",
+      "git": "https://github.com/jerboatech"
     }
   ],
   "Contact": {
@@ -161,24 +153,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-globe",
+      "title": "Validation Fee",
+      "text": "0%"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Max Fee",
+      "text": "8%"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Average APY%",
+      "text": "12.36%"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-rss",
+      "title": "Average Up-Time",
+      "text": "99.99%"
     }
   ]
 }
